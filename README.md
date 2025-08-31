@@ -121,7 +121,7 @@ Use case diagrams (part of UML) visually represent actors (users or external sys
 
 **Diagram (example):**
 
-*Add ****`alx-booking-uc.png`**** (export from draw\.io or another tool) to this repository root so the image displays correctly in GitHub.*
+* ****`alx-booking-uc.png`**** *
 
 ---
 
